@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "975970303551",
+    "project_id": "cool-car-user-1",
+    "storage_bucket": "cool-car-user-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975970303551:android:a8cb947e1a0e29b1f1428a",
+        "android_client_info": {
+          "package_name": "com.example.cool_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975970303551-2q4vlech7n9s3jvd4kbpusdhnequu1hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cool_car",
+            "certificate_hash": "940de320207147440019ee3de760c0de2dc43609"
+          }
+        },
+        {
+          "client_id": "975970303551-od01hth35hr5ep87f0qomugsh1e649fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDuC0ewgaTpmnkLUTZWHfMNpcKSgl0Gjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975970303551-od01hth35hr5ep87f0qomugsh1e649fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975970303551-h9hs22vnghtu4j3p00eqfvmrkm4ljpc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coolCar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975970303551:android:37adebf4806e2e39f1428a",
+        "android_client_info": {
+          "package_name": "com.example.cool_car_user_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975970303551-p0bcd5a4vug0mr70k291k9fq65tb6ffj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cool_car_user_1",
+            "certificate_hash": "940de320207147440019ee3de760c0de2dc43609"
+          }
+        },
+        {
+          "client_id": "975970303551-od01hth35hr5ep87f0qomugsh1e649fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDuC0ewgaTpmnkLUTZWHfMNpcKSgl0Gjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975970303551-od01hth35hr5ep87f0qomugsh1e649fb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "975970303551-h9hs22vnghtu4j3p00eqfvmrkm4ljpc6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coolCar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
