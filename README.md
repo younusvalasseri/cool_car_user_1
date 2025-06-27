@@ -40,7 +40,6 @@ This app was created to simplify the user experience in:
 | Language      | Dart                      |
 | Framework     | Flutter                   |
 | Backend       | Firebase Firestore        |
-| Local DB      | Hive                      |
 | Payments      | Razorpay                  |
 | Notifications | Firebase Cloud Messaging  |
 | State Mgmt    | Riverpod                  |
